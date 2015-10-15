@@ -5,7 +5,6 @@ using System.Collections.Generic;
 
 public class InputManager : MonoBehaviour
 {
-    [Serializable]
     Dictionary<PlayerInputs, KeyboardInput> _inputs;
 
     [SerializeField]
