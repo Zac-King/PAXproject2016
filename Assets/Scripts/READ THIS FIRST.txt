@@ -1,0 +1,22 @@
+////* Coding Standards *////
+
+script documentation:
+	Before you commit your sripts to be tested, you must submit documentation 
+	on how to use it and what's required to set it up for testing. This can
+	be done via a readme .txt file, or a commented header at the top of your 
+	script.
+
+Commenting:
+	once a function or some block of your code works and you know what it does,
+	comment it.
+
+
+script names:
+	short and descriptive.
+
+variable names:
+	variables should be descriptive.
+								e.g.	a variable representing the number of boxes in a stack could be: int stackedBoxes
+
+Function names:
+	Each word should start with a capital letter. Underscores should be used sparingly, only for organizational purposes within your script
